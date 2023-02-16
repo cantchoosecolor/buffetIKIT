@@ -5,7 +5,21 @@ ___
 
 :smirk_cat: ***Дронгаль Наталия*** – Руководитель проекта, Дизайнер, Back-end разработка.
 
+***Контактная информация***
+
+*Telegram - https://t.me/natalyadrongal*
+
+*Email -natalyadrongal@mail.ru*
+
+___
+
 :smirk_cat: ***Конохова Юлия*** – Front-end разработка, Бизнес-аналитик.
+
+***Контактная информация***
+
+*Telegram - https://t.me/k_julia*
+
+*Email - yulya_konokhova@mail.ru* 
 
 ___
 
