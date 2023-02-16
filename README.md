@@ -1,7 +1,6 @@
 # Буфет ИКИТ
 Мобильное приложение, позволяющее студентам узнавать об актульном меню в буфете.
 
-![](https://yandex.ru/images/search?text=котик%20ест%20из%20посуды&from=tabbar&p=1&pos=5&rpt=simage&img_url=http%3A%2F%2Fbeauty-line14a.ru%2Fwp-content%2Fuploads%2F2019%2F07%2Fcpewn335.jpg&lr=62)
 ___
 ## **Команда и роли**
 
