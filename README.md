@@ -1,7 +1,7 @@
 # Буфет ИКИТ
 Мобильное приложение, позволяющее студентам узнавать об актульном меню в буфете.
 
-![Image](https://github.com/cantchoosecolor/buffetIKIT/blob/master/zd-pFHNPNow.jpg)
+![Image](https://github.com/cantchoosecolor/buffetIKIT/blob/dev/zd-pFHNPNow.jpg)
 ___
 ## **Команда и роли**
 
